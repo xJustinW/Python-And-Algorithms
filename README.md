@@ -9,7 +9,7 @@
 - Malware analysis
 - and Much More!!!
 
-Below is a document that illustrates my ability to ingest scenarios/tasks and convet that into a Python 
+Below is a document that illustrates my ability to ingest scenarios/tasks and convert that into a Python 
 </b>
 
 <b>[View Document Here](https://docs.google.com/document/d/1oM-hhkvCIINZ7Exmu9ndhNDx6MJg1I-MEdneyrGZMhM/edit?usp=sharing&resourcekey=0-CdbBWJiHo5eNxJEinDlENQ)</b>
